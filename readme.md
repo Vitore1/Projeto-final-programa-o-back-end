@@ -1,8 +1,8 @@
 Sistema de gerenciamento de chamados técnicos desenvolvido em Python com Flask e MySQL. Permite o cadastro de setores, usuários e o gerenciamento completo de chamados técnicos.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-### 📋 Backend (API REST)
+### Backend (API REST)
 - **CRUD completo** de Setores, Usuários e Chamados
 - **Validações robustas** de dados e integridade referencial
 - **Status automático** - Chamados criados com status "aberto"
@@ -11,7 +11,7 @@ Sistema de gerenciamento de chamados técnicos desenvolvido em Python com Flask 
 - **Health Check** - Rota `/health` para monitoramento
 - **Configuração por ambiente** - Variáveis `.env` para segurança
 
-### 🖥️ Frontend (CLI Interativo)
+### Frontend (CLI Interativo)
 - **Menu intuitivo** - Interface amigável em terminal
 - **Tratamento de erros** - Conexão com API, timeouts, validações
 - **Visualização rica** - Emojis, cores e formatação organizada
