@@ -18,7 +18,7 @@ Sistema de gerenciamento de chamados técnicos desenvolvido em Python com Flask 
 - **Validações** - Confirmações para ações destrutivas
 - **Dados de demonstração** - Opção para carregar dados de teste
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - **Modelo relacional correto** - Chaves estrangeiras e integridade
 - **Auto-inicialização** - Banco e tabelas criados automaticamente
 - **Enums** - Status e prioridades com valores controlados
